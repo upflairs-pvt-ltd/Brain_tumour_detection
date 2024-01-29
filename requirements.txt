@@ -1,0 +1,9 @@
+numpy
+tensorflow
+Pillow
+scikit-learn
+opencv-python
+Werkzeug
+Flask
+pylint
+black
